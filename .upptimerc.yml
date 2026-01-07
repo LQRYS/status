@@ -30,7 +30,7 @@ sites:
     url: https://upload.staging.matchbiz.fr/health
     icon: https://staging.matchbiz.fr/favicon.ico
 status-website:
-  cname: status.staging.matchbiz.fr
+  baseUrl: /status
   logoUrl: https://matchbiz.fr/favicon.ico
   name: BiznessMatch Platform Status
   introTitle: "**BiznessMatch** is the professional networking platform for business events."
