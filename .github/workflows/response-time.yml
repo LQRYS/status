@@ -1,0 +1,13 @@
+name: Response Time CI
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+jobs:
+  response-time:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Upptime
+        uses: upptime/uptime-monitor@v1.24.0
+        with:
+          token: ${{ secrets.GH_PAT }}

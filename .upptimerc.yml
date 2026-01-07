@@ -1,0 +1,86 @@
+# Upptime configuration for Syrql/BiznessmMatch platform
+# https://upptime.js.org/docs/configuration
+
+owner: syrql
+repo: status
+
+sites:
+  # Production
+  - name: Production Frontend
+    url: https://syrql.com
+    icon: https://syrql.com/favicon.ico
+
+  - name: Production API
+    url: https://api.syrql.com/healthz
+    icon: https://syrql.com/favicon.ico
+
+  - name: Production API (GraphQL)
+    url: https://api.syrql.com/hello
+    icon: https://syrql.com/favicon.ico
+
+  - name: Production Upload
+    url: https://upload.syrql.com/health
+    icon: https://syrql.com/favicon.ico
+
+  # Staging
+  - name: Staging Frontend
+    url: https://staging.syrql.com
+    icon: https://syrql.com/favicon.ico
+
+  - name: Staging API
+    url: https://api-staging.syrql.com/healthz
+    icon: https://syrql.com/favicon.ico
+
+  - name: Staging Upload
+    url: https://upload-staging.syrql.com/health
+    icon: https://syrql.com/favicon.ico
+
+status-website:
+  cname: status.syrql.com
+  logoUrl: https://syrql.com/favicon.ico
+  name: Syrql Platform Status
+  introTitle: "**Syrql** is the professional networking platform for business events."
+  introMessage: This page provides real-time status information for all Syrql services. Subscribe to updates to get notified when there are incidents or scheduled maintenance.
+  navbar:
+    - title: Status
+      href: /
+    - title: Syrql
+      href: https://syrql.com
+
+# Notifications (email via GitHub Actions secrets)
+notifications:
+  - type: email
+    address: team@biznessmatch.com
+
+# Incident management
+assignees:
+  - elias
+
+# Check every 5 minutes
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  updates: "0 0 * * *"
+  graphs: "0 0 * * *"
+  staticSite: "0 0 * * *"
+  summary: "0 0 * * *"
+
+# Commits configuration
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@syrql.com"
+  templateRecoveredRecoveredRecovered: "🟢 $SITE is back up"
+  templateCommitTemplateRecoveredRecoveredRecoveredRecovered: "🟢 $SITE is back up"
+  templateDegraded: "🟡 $SITE has degraded performance"
+  templateDown: "🔴 $SITE is down"
+
+# User agent for requests
+user-agent: "Upptime/Syrql-Status-Monitor"
+
+# Response time thresholds (ms)
+responseTime:
+  degradedThreshold: 2000
+  downThreshold: 10000
+
+# Skip duplicate issues
+skipDuplicateIssues: true
