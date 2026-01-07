@@ -15,17 +15,18 @@ sites:
     icon: https://biznessmatch.com/favicon.ico
 
   - name: Production Upload
-    url: https://upload.biznessmatch.com/hello
+    url: https://upload.biznessmatch.com/health
     icon: https://biznessmatch.com/favicon.ico
 
   # Staging
   - name: Staging Frontend
     url: https://staging.matchbiz.fr
-    icon: https://matchbiz.fr/favicon.ico
+    icon: https://staging.matchbiz.fr/favicon.ico
 
   - name: Staging API
     url: https://api.staging.matchbiz.fr/healthz
     icon: https://staging.matchbiz.fr/favicon.ico
+
   - name: Staging Upload
     url: https://upload.staging.matchbiz.fr/health
     icon: https://staging.matchbiz.fr/favicon.ico
