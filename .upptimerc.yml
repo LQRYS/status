@@ -32,7 +32,7 @@ sites:
     icon: https://staging.matchbiz.fr/favicon.ico
 status-website:
   baseUrl: /status
-  logoUrl: https://matchbiz.fr/favicon.ico
+  logoUrl: https://staging.matchbiz.fr/favicon.ico
   name: BiznessMatch Platform Status
   introTitle: "**BiznessMatch** is the professional networking platform for business events."
   introMessage: This page provides real-time status information for all BiznessMatch services. Subscribe to updates to get notified when there are incidents or scheduled maintenance.
