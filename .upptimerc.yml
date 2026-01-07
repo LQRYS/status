@@ -7,45 +7,39 @@ repo: status
 sites:
   # Production
   - name: Production Frontend
-    url: https://syrql.com
-    icon: https://syrql.com/favicon.ico
+    url: https://biznessmatch.com
+    icon: https://biznessmatch.com/favicon.ico
 
   - name: Production API
-    url: https://api.syrql.com/healthz
-    icon: https://syrql.com/favicon.ico
-
-  - name: Production API (GraphQL)
-    url: https://api.syrql.com/hello
-    icon: https://syrql.com/favicon.ico
+    url: https://api.biznessmatch.com/healthz
+    icon: https://biznessmatch.com/favicon.ico
 
   - name: Production Upload
-    url: https://upload.syrql.com/health
-    icon: https://syrql.com/favicon.ico
+    url: https://upload.biznessmatch.com/hello
+    icon: https://biznessmatch.com/favicon.ico
 
   # Staging
   - name: Staging Frontend
-    url: https://staging.syrql.com
-    icon: https://syrql.com/favicon.ico
+    url: https://staging.matchbiz.fr
+    icon: https://matchbiz.fr/favicon.ico
 
   - name: Staging API
-    url: https://api-staging.syrql.com/healthz
-    icon: https://syrql.com/favicon.ico
-
+    url: https://api.staging.matchbiz.fr/healthz
+    icon: https://staging.matchbiz.fr/favicon.ico
   - name: Staging Upload
-    url: https://upload-staging.syrql.com/health
-    icon: https://syrql.com/favicon.ico
-
+    url: https://upload.staging.matchbiz.fr/health
+    icon: https://staging.matchbiz.fr/favicon.ico
 status-website:
-  cname: status.syrql.com
-  logoUrl: https://syrql.com/favicon.ico
-  name: Syrql Platform Status
-  introTitle: "**Syrql** is the professional networking platform for business events."
-  introMessage: This page provides real-time status information for all Syrql services. Subscribe to updates to get notified when there are incidents or scheduled maintenance.
+  cname: status.staging.matchbiz.fr
+  logoUrl: https://matchbiz.fr/favicon.ico
+  name: BiznessMatch Platform Status
+  introTitle: "**BiznessMatch** is the professional networking platform for business events."
+  introMessage: This page provides real-time status information for all BiznessMatch services. Subscribe to updates to get notified when there are incidents or scheduled maintenance.
   navbar:
     - title: Status
       href: /
-    - title: Syrql
-      href: https://syrql.com
+    - title: BiznessMatch
+      href: https://biznessmatch.com
 
 # Notifications (email via GitHub Actions secrets)
 notifications:
@@ -54,7 +48,7 @@ notifications:
 
 # Incident management
 assignees:
-  - elias
+  - dev
 
 # Check every 5 minutes
 workflowSchedule:
@@ -68,14 +62,14 @@ workflowSchedule:
 # Commits configuration
 commitMessages:
   commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "upptime@syrql.com"
+  commitAuthorEmail: "upptime@biznessmatch.com"
   templateRecoveredRecoveredRecovered: "🟢 $SITE is back up"
   templateCommitTemplateRecoveredRecoveredRecoveredRecovered: "🟢 $SITE is back up"
   templateDegraded: "🟡 $SITE has degraded performance"
   templateDown: "🔴 $SITE is down"
 
 # User agent for requests
-user-agent: "Upptime/Syrql-Status-Monitor"
+user-agent: "Upptime/BiznessMatch-Status-Monitor"
 
 # Response time thresholds (ms)
 responseTime:

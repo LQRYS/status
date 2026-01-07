@@ -9,15 +9,16 @@ Visit [status.syrql.com](https://status.syrql.com) to see the current status of 
 ## Monitored Services
 
 ### Production
-- **Frontend** - https://syrql.com
-- **API** - https://api.syrql.com/healthz
-- **API GraphQL** - https://api.syrql.com/hello
-- **Upload Service** - https://upload.syrql.com/health
+
+- **Frontend** - https://biznessmatch.com
+- **API** - https://api.biznessmatch.com/healthz
+- **Upload Service** - https://upload.biznessmatch.com/hello
 
 ### Staging
-- **Frontend** - https://staging.syrql.com
-- **API** - https://api-staging.syrql.com/healthz
-- **Upload Service** - https://upload-staging.syrql.com/health
+
+- **Frontend** - https://staging.matchbiz.fr
+- **API** - https://api.staging.matchbiz.fr/healthz
+- **Upload Service** - https://upload.staging.syrql.fr/hello
 
 ## Setup
 
@@ -29,13 +30,14 @@ Create a new repository named `status` under the `syrql` organization.
 
 Add the following secrets to the repository:
 
-| Secret | Description |
-|--------|-------------|
+| Secret   | Description                                                    |
+| -------- | -------------------------------------------------------------- |
 | `GH_PAT` | GitHub Personal Access Token with `repo` and `workflow` scopes |
 
 ### 3. Configure DNS
 
 Add a CNAME record:
+
 ```
 status.syrql.com -> syrql.github.io
 ```
@@ -57,6 +59,7 @@ status.syrql.com -> syrql.github.io
 ## Configuration
 
 Edit `.upptimerc.yml` to:
+
 - Add/remove monitored sites
 - Change notification settings
 - Adjust response time thresholds
