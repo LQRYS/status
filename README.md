@@ -2,10 +2,6 @@
 
 This repository contains the status page for the Syrql platform, powered by [Upptime](https://upptime.js.org).
 
-## Live Status
-
-Visit [status.syrql.com](https://status.syrql.com) to see the current status of all services.
-
 ## Monitored Services
 
 ### Production
