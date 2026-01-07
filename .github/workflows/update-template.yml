@@ -11,5 +11,6 @@ jobs:
       - name: Run Upptime
         uses: upptime/uptime-monitor@v1.38.0
         with:
-          token: ${{ secrets.GH_PAT }}
           command: update-template
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
