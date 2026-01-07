@@ -5,10 +5,10 @@ node_modules/
 .next/
 out/
 
-# Generated files (will be created by Upptime)
-api/
-graphs/
-history/
+# Generated files (created by Upptime - DO NOT ignore, needed for status page)
+# api/
+# graphs/
+# history/
 
 # OS files
 .DS_Store
