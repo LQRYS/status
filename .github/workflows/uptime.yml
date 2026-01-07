@@ -17,3 +17,8 @@ jobs:
           command: update
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Trigger Static Site rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
+          event-type: rebuild-site
