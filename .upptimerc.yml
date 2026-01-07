@@ -15,7 +15,7 @@ sites:
     icon: https://biznessmatch.com/favicon.ico
 
   - name: Production Upload
-    url: https://upload.biznessmatch.com/health
+    url: https://upload.biznessmatch.com/hello
     icon: https://biznessmatch.com/favicon.ico
 
   # Staging
@@ -28,7 +28,7 @@ sites:
     icon: https://staging.matchbiz.fr/favicon.ico
 
   - name: Staging Upload
-    url: https://upload.staging.matchbiz.fr/health
+    url: https://upload.staging.matchbiz.fr/hello
     icon: https://staging.matchbiz.fr/favicon.ico
 status-website:
   baseUrl: /status
