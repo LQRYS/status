@@ -13,7 +13,7 @@
     "time": 1146,
     "timeDay": 1416,
     "timeWeek": 1377,
-    "timeMonth": 1261,
+    "timeMonth": 1260,
     "timeYear": 1146,
     "dailyMinutesDown": {}
   },
@@ -43,15 +43,15 @@
     "url": "https://upload.biznessmatch.com/hello",
     "icon": "https://biznessmatch.com/favicon.ico",
     "slug": "production-upload",
-    "status": "up",
-    "uptime": "94.48%",
-    "uptimeDay": "57.49%",
-    "uptimeWeek": "58.05%",
-    "uptimeMonth": "88.66%",
-    "uptimeYear": "94.48%",
+    "status": "down",
+    "uptime": "94.60%",
+    "uptimeDay": "57.46%",
+    "uptimeWeek": "58.06%",
+    "uptimeMonth": "88.91%",
+    "uptimeYear": "94.60%",
     "time": 520,
-    "timeDay": 435,
-    "timeWeek": 426,
+    "timeDay": 438,
+    "timeWeek": 425,
     "timeMonth": 480,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
       "2026-03-06": 600,
       "2026-03-05": 793,
       "2026-03-04": 486,
-      "2026-03-03": 573
+      "2026-03-03": 463
     }
   },
   {
@@ -79,7 +79,7 @@
     "uptimeYear": "99.86%",
     "time": 1619,
     "timeDay": 1880,
-    "timeWeek": 1788,
+    "timeWeek": 1787,
     "timeMonth": 1704,
     "timeYear": 1619,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
     "uptimeYear": "99.47%",
     "time": 902,
     "timeDay": 908,
-    "timeWeek": 872,
+    "timeWeek": 871,
     "timeMonth": 903,
     "timeYear": 902,
     "dailyMinutesDown": {
@@ -122,7 +122,7 @@
     "uptimeYear": "99.75%",
     "time": 946,
     "timeDay": 959,
-    "timeWeek": 909,
+    "timeWeek": 911,
     "timeMonth": 927,
     "timeYear": 946,
     "dailyMinutesDown": {
