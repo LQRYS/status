@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1147,
     "timeDay": 1311,
-    "timeWeek": 1376,
+    "timeWeek": 1375,
     "timeMonth": 1261,
     "timeYear": 1147,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 499,
-    "timeDay": 488,
-    "timeWeek": 494,
+    "timeDay": 486,
+    "timeWeek": 493,
     "timeMonth": 504,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -43,15 +43,15 @@
     "url": "https://upload.biznessmatch.com/hello",
     "icon": "https://biznessmatch.com/favicon.ico",
     "slug": "production-upload",
-    "status": "up",
-    "uptime": "94.49%",
-    "uptimeDay": "57.36%",
-    "uptimeWeek": "56.79%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "94.49%",
+    "status": "down",
+    "uptime": "94.54%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "56.78%",
+    "uptimeMonth": "88.65%",
+    "uptimeYear": "94.54%",
     "time": 519,
     "timeDay": 443,
-    "timeWeek": 421,
+    "timeWeek": 422,
     "timeMonth": 478,
     "timeYear": 519,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
       "2026-03-06": 600,
       "2026-03-05": 793,
       "2026-03-04": 486,
-      "2026-03-03": 180
+      "2026-03-03": 130
     }
   },
   {
@@ -78,8 +78,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.86%",
     "time": 1621,
-    "timeDay": 1799,
-    "timeWeek": 1787,
+    "timeDay": 1813,
+    "timeWeek": 1789,
     "timeMonth": 1705,
     "timeYear": 1621,
     "dailyMinutesDown": {
@@ -98,8 +98,8 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.47%",
     "time": 902,
-    "timeDay": 848,
-    "timeWeek": 878,
+    "timeDay": 865,
+    "timeWeek": 880,
     "timeMonth": 901,
     "timeYear": 902,
     "dailyMinutesDown": {
@@ -121,9 +121,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.75%",
     "time": 945,
-    "timeDay": 884,
+    "timeDay": 889,
     "timeWeek": 906,
-    "timeMonth": 923,
+    "timeMonth": 924,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2026-02-12": 128,
