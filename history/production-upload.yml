@@ -1,7 +1,7 @@
 url: https://upload.biznessmatch.com/hello
-status: down
-code: 503
-responseTime: 632
-lastUpdated: 2026-03-21T16:21:54.432Z
+status: up
+code: 200
+responseTime: 657
+lastUpdated: 2026-03-21T16:47:43.567Z
 startTime: 2026-01-07T16:14:38.822Z
 generator: Upptime <https://github.com/upptime/upptime>
