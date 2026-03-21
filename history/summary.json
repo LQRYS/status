@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1163,
-    "timeDay": 1215,
-    "timeWeek": 1287,
+    "timeDay": 1202,
+    "timeWeek": 1285,
     "timeMonth": 1294,
     "timeYear": 1163,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 500,
-    "timeDay": 463,
-    "timeWeek": 508,
+    "timeDay": 457,
+    "timeWeek": 506,
     "timeMonth": 500,
     "timeYear": 500,
     "dailyMinutesDown": {
@@ -44,14 +44,14 @@
     "icon": "https://biznessmatch.com/favicon.ico",
     "slug": "production-upload",
     "status": "up",
-    "uptime": "94.98%",
-    "uptimeDay": "53.49%",
-    "uptimeWeek": "54.76%",
-    "uptimeMonth": "87.90%",
-    "uptimeYear": "94.98%",
+    "uptime": "95.00%",
+    "uptimeDay": "55.77%",
+    "uptimeWeek": "55.08%",
+    "uptimeMonth": "87.95%",
+    "uptimeYear": "95.00%",
     "time": 508,
-    "timeDay": 447,
-    "timeWeek": 440,
+    "timeDay": 441,
+    "timeWeek": 438,
     "timeMonth": 444,
     "timeYear": 508,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
       "2026-03-16": 722,
       "2026-03-15": 548,
       "2026-03-14": 671,
-      "2026-03-13": 119
+      "2026-03-13": 100
     }
   },
   {
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1639,
-    "timeDay": 1684,
-    "timeWeek": 1753,
+    "timeDay": 1679,
+    "timeWeek": 1751,
     "timeMonth": 1756,
     "timeYear": 1639,
     "dailyMinutesDown": {
@@ -98,8 +98,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 901,
-    "timeDay": 862,
-    "timeWeek": 888,
+    "timeDay": 863,
+    "timeWeek": 886,
     "timeMonth": 897,
     "timeYear": 901,
     "dailyMinutesDown": {
@@ -121,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 940,
-    "timeDay": 890,
-    "timeWeek": 895,
-    "timeMonth": 916,
+    "timeDay": 886,
+    "timeWeek": 893,
+    "timeMonth": 915,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2026-02-12": 128,
