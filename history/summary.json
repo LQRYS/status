@@ -43,19 +43,19 @@
     "url": "https://upload.biznessmatch.com/hello",
     "icon": "https://biznessmatch.com/favicon.ico",
     "slug": "production-upload",
-    "status": "up",
-    "uptime": "94.98%",
-    "uptimeDay": "55.84%",
-    "uptimeWeek": "54.61%",
-    "uptimeMonth": "87.81%",
-    "uptimeYear": "94.98%",
+    "status": "down",
+    "uptime": "95.03%",
+    "uptimeDay": "55.80%",
+    "uptimeWeek": "54.60%",
+    "uptimeMonth": "87.92%",
+    "uptimeYear": "95.03%",
     "time": 508,
-    "timeDay": 450,
-    "timeWeek": 434,
+    "timeDay": 453,
+    "timeWeek": 435,
     "timeMonth": 442,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2026-03-22": 438,
+      "2026-03-22": 439,
       "2026-03-21": 634,
       "2026-03-20": 705,
       "2026-03-19": 607,
@@ -63,7 +63,7 @@
       "2026-03-17": 704,
       "2026-03-16": 722,
       "2026-03-15": 548,
-      "2026-03-14": 387
+      "2026-03-14": 339
     }
   },
   {
@@ -99,7 +99,7 @@
     "uptimeYear": "99.55%",
     "time": 901,
     "timeDay": 881,
-    "timeWeek": 884,
+    "timeWeek": 882,
     "timeMonth": 896,
     "timeYear": 901,
     "dailyMinutesDown": {
