@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1165,
-    "timeDay": 1154,
-    "timeWeek": 1268,
-    "timeMonth": 1300,
+    "timeDay": 1146,
+    "timeWeek": 1266,
+    "timeMonth": 1299,
     "timeYear": 1165,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "99.97%",
     "time": 499,
     "timeDay": 429,
-    "timeWeek": 478,
+    "timeWeek": 476,
     "timeMonth": 498,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -43,15 +43,15 @@
     "url": "https://upload.biznessmatch.com/hello",
     "icon": "https://biznessmatch.com/favicon.ico",
     "slug": "production-upload",
-    "status": "up",
-    "uptime": "94.73%",
-    "uptimeDay": "38.83%",
-    "uptimeWeek": "52.14%",
-    "uptimeMonth": "86.96%",
-    "uptimeYear": "94.73%",
+    "status": "down",
+    "uptime": "94.75%",
+    "uptimeDay": "38.80%",
+    "uptimeWeek": "52.17%",
+    "uptimeMonth": "87.01%",
+    "uptimeYear": "94.75%",
     "time": 506,
-    "timeDay": 413,
-    "timeWeek": 429,
+    "timeDay": 407,
+    "timeWeek": 430,
     "timeMonth": 437,
     "timeYear": 506,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
       "2026-03-18": 593,
       "2026-03-17": 704,
       "2026-03-16": 722,
-      "2026-03-15": 170
+      "2026-03-15": 150
     }
   },
   {
@@ -78,8 +78,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1642,
-    "timeDay": 1677,
-    "timeWeek": 1745,
+    "timeDay": 1681,
+    "timeWeek": 1743,
     "timeMonth": 1767,
     "timeYear": 1642,
     "dailyMinutesDown": {
@@ -98,8 +98,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 900,
-    "timeDay": 820,
-    "timeWeek": 876,
+    "timeDay": 809,
+    "timeWeek": 874,
     "timeMonth": 896,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -122,7 +122,7 @@
     "uptimeYear": "99.79%",
     "time": 940,
     "timeDay": 857,
-    "timeWeek": 896,
+    "timeWeek": 895,
     "timeMonth": 917,
     "timeYear": 940,
     "dailyMinutesDown": {
