@@ -1,7 +1,7 @@
 url: https://staging.matchbiz.fr
-status: down
-code: 503
-responseTime: 588
-lastUpdated: 2026-04-17T13:53:29.405Z
+status: up
+code: 200
+responseTime: 2612
+lastUpdated: 2026-04-17T14:47:26.364Z
 startTime: 2026-01-07T16:14:39.690Z
 generator: Upptime <https://github.com/upptime/upptime>
