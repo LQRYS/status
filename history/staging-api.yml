@@ -1,7 +1,7 @@
 url: https://api.staging.matchbiz.fr/healthz
 status: up
 code: 200
-responseTime: 734
-lastUpdated: 2026-05-13T04:11:02.081Z
+responseTime: 683
+lastUpdated: 2026-05-13T07:25:14.507Z
 startTime: 2026-01-07T16:14:41.106Z
 generator: Upptime <https://github.com/upptime/upptime>
