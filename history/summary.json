@@ -126,22 +126,22 @@
     "url": "https://upload.staging.matchbiz.fr/hello",
     "icon": "https://staging.matchbiz.fr/favicon.ico",
     "slug": "staging-upload",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.83%",
     "time": 933,
-    "timeDay": 949,
-    "timeWeek": 958,
-    "timeMonth": 910,
+    "timeDay": 974,
+    "timeWeek": 963,
+    "timeMonth": 912,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2026-01-07": 100,
       "2026-02-12": 128,
       "2026-04-17": 216,
-      "2026-07-12": 2
+      "2026-07-12": 7
     }
   }
 ]
