@@ -7,16 +7,16 @@ repo: status
 sites:
   # Production
   - name: Production Frontend
-    url: https://biznessmatch.com
-    icon: https://biznessmatch.com/favicon.ico
+    url: https://misterbridge.com
+    icon: https://misterbridge.com/favicon.ico
 
   - name: Production API
-    url: https://api.biznessmatch.com/healthz
-    icon: https://biznessmatch.com/favicon.ico
+    url: https://api.misterbridge.com/healthz
+    icon: https://misterbridge.com/favicon.ico
 
   - name: Production Upload
-    url: https://upload.biznessmatch.com/hello
-    icon: https://biznessmatch.com/favicon.ico
+    url: https://upload.misterbridge.com/hello
+    icon: https://misterbridge.com/favicon.ico
 
   # Staging
   - name: Staging Frontend
@@ -33,19 +33,19 @@ sites:
 status-website:
   baseUrl: /status
   logoUrl: https://staging.matchbiz.fr/favicon.ico
-  name: BiznessMatch Platform Status
-  introTitle: "**BiznessMatch** is the professional networking platform for business events."
-  introMessage: This page provides real-time status information for all BiznessMatch services. Subscribe to updates to get notified when there are incidents or scheduled maintenance.
+  name: MisterBridge Platform Status
+  introTitle: "**MisterBridge** is the professional networking platform for business events."
+  introMessage: This page provides real-time status information for all MisterBridge services. Subscribe to updates to get notified when there are incidents or scheduled maintenance.
   navbar:
     - title: Status
       href: /
-    - title: BiznessMatch
-      href: https://biznessmatch.com
+    - title: MisterBridge
+      href: https://misterbridge.com
 
 # Notifications (email via GitHub Actions secrets)
 notifications:
   - type: email
-    address: team@biznessmatch.com
+    address: team@misterbridge.com
 
 # Incident management
 assignees:
@@ -63,14 +63,14 @@ workflowSchedule:
 # Commits configuration
 commitMessages:
   commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "upptime@biznessmatch.com"
+  commitAuthorEmail: "upptime@misterbridge.com"
   templateRecoveredRecoveredRecovered: "🟢 $SITE is back up"
   templateCommitTemplateRecoveredRecoveredRecoveredRecovered: "🟢 $SITE is back up"
   templateDegraded: "🟡 $SITE has degraded performance"
   templateDown: "🔴 $SITE is down"
 
 # User agent for requests
-user-agent: "Upptime/BiznessMatch-Status-Monitor"
+user-agent: "Upptime/MisterBridge-Status-Monitor"
 
 # Response time thresholds (ms)
 responseTime:
