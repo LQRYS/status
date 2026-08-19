@@ -72,4 +72,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Upptime Bot"
-          user_email: "upptime@biznessmatch.com"
+          user_email: "upptime@misterbridge.com"
