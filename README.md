@@ -14,13 +14,13 @@ This repository contains the status page for the Syrql platform, powered by [Upp
 
 - **Frontend** - https://staging.matchbiz.fr
 - **API** - https://api.staging.matchbiz.fr/healthz
-- **Upload Service** - https://upload.staging.syrql.fr/hello
+- **Upload Service** - https://upload.staging.matchbiz.fr/hello
 
 ## Setup
 
 ### 1. Create GitHub Repository
 
-Create a new repository named `status` under the `syrql` organization.
+Create a new repository named `status` under the `biznessmatch` organization.
 
 ### 2. Configure Secrets
 
@@ -35,14 +35,14 @@ Add the following secrets to the repository:
 Add a CNAME record:
 
 ```
-status.syrql.com -> syrql.github.io
+status.biznessmatch.com -> biznessmatch.github.io
 ```
 
 ### 4. Enable GitHub Pages
 
 1. Go to Settings > Pages
 2. Select `gh-pages` branch as source
-3. The site will be available at status.syrql.com after DNS propagation
+3. The site will be available at status.biznessmatch.com after DNS propagation
 
 ## How It Works
 
