@@ -5,7 +5,6 @@ owner: LQRYS
 repo: status
 
 sites:
-  # Production
   - name: Production Frontend
     url: https://misterbridge.com
     icon: https://misterbridge.com/favicon.ico
@@ -18,7 +17,6 @@ sites:
     url: https://upload.misterbridge.com/hello
     icon: https://misterbridge.com/favicon.ico
 
-  # Staging
   - name: Staging Frontend
     url: https://staging.matchbiz.fr
     icon: https://staging.matchbiz.fr/favicon.ico
@@ -47,11 +45,9 @@ notifications:
   - type: email
     address: team@misterbridge.com
 
-# Incident management
 assignees:
   - dev
 
-# Check every 5 minutes
 workflowSchedule:
   uptime: "*/5 * * * *"
   responseTime: "*/5 * * * *"
@@ -60,7 +56,6 @@ workflowSchedule:
   staticSite: "0 0 * * *"
   summary: "0 0 * * *"
 
-# Commits configuration
 commitMessages:
   commitAuthorName: "Upptime Bot"
   commitAuthorEmail: "upptime@misterbridge.com"
@@ -69,7 +64,6 @@ commitMessages:
   templateDegraded: "🟡 $SITE has degraded performance"
   templateDown: "🔴 $SITE is down"
 
-# User agent for requests
 user-agent: "Upptime/MisterBridge-Status-Monitor"
 
 # Response time thresholds (ms)
@@ -77,5 +71,4 @@ responseTime:
   degradedThreshold: 2000
   downThreshold: 10000
 
-# Skip duplicate issues
 skipDuplicateIssues: true
