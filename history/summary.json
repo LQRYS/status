@@ -13,7 +13,7 @@
     "time": 1380,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1832,
+    "timeMonth": 1812,
     "timeYear": 1380,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 494,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 519,
+    "timeMonth": 521,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2026-01-12": 18,
@@ -46,15 +46,15 @@
     "icon": "https://misterbridge.com/favicon.ico",
     "slug": "production-upload",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 525,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 562,
+    "timeMonth": 560,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2026-03-16": 722,
@@ -82,7 +82,7 @@
     "time": 1990,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2398,
+    "timeMonth": 2392,
     "timeYear": 1990,
     "dailyMinutesDown": {
       "2026-02-12": 128,
@@ -104,7 +104,7 @@
     "time": 877,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 772,
+    "timeMonth": 783,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2026-01-08": 25,
@@ -137,7 +137,7 @@
     "time": 921,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 859,
+    "timeMonth": 867,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2026-01-07": 100,
